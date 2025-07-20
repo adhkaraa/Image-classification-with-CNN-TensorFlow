@@ -53,9 +53,3 @@ This project builds a binary image classification model to distinguish between i
 ## 📸 Example Prediction
 
 ![example](predictions.png)
-
-```text
-Predicted: Dog | Actual: Dog
-Predicted: Cat | Actual: Cat
-Predicted: Dog | Actual: Cat ❌
-...
